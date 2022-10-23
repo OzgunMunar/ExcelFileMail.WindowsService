@@ -1,0 +1,7 @@
+C:\Users\ozgun\Desktop\C# files to look into\Mail.WindowsService\Mail.WindowsService\bin\Debug\Mail.WindowsService.exe.config
+C:\Users\ozgun\Desktop\C# files to look into\Mail.WindowsService\Mail.WindowsService\bin\Debug\Mail.WindowsService.exe
+C:\Users\ozgun\Desktop\C# files to look into\Mail.WindowsService\Mail.WindowsService\bin\Debug\Mail.WindowsService.pdb
+C:\Users\ozgun\Desktop\C# files to look into\Mail.WindowsService\Mail.WindowsService\obj\Debug\Mail.WindowsService.csprojAssemblyReference.cache
+C:\Users\ozgun\Desktop\C# files to look into\Mail.WindowsService\Mail.WindowsService\obj\Debug\Mail.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\C# files to look into\Mail.WindowsService\Mail.WindowsService\obj\Debug\Mail.WindowsService.exe
+C:\Users\ozgun\Desktop\C# files to look into\Mail.WindowsService\Mail.WindowsService\obj\Debug\Mail.WindowsService.pdb
