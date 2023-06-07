@@ -46,10 +46,7 @@ namespace Mail.WindowsService
         private void MyTimer_Elapsed(object sender, ElapsedEventArgs e)
         {
 
-            DateTime Today = Dates.ReturnToday();
-            DateTime FirstDay = Dates.ReturnFirstDayOfTheMonth();
-
-            if(Today == FirstDay)
+            if(DateTime.Now.Day == 1)
             {
 
                 DoExcelWork();
